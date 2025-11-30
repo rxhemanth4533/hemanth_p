@@ -1,4 +1,4 @@
-# tademloopcodes
+# hemanth_p
 # Coding Test Solutions
 
 This repository contains solutions for the coding test problems, written in **C++**.
